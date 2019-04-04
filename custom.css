@@ -1,0 +1,29 @@
+.fondo-hero {
+  background-image: url(http://vbs4u.com/wp-content/uploads/2016/10/portfolio-background.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.fondo-portfolio {
+	background-color: #525252;
+}
+.social {
+  color: #fff;
+}
+.social:hover {
+  color: rgba(0,0,0,.7);
+}
+.img-thumbnail {
+  height: 200px;
+  border-radius: 50%;
+}
+.card {
+	margin: 20px;
+}
+.form-control {
+	border: 2px solid rgba(0,0,0,.5) !important;
+}
+
+.navbar-brand {
+  color: white !important;
+}
